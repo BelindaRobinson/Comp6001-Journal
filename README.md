@@ -15,3 +15,12 @@ Work load atm is sweet in saying that I havnt started week two work yet but week
 Also I really like what you can do with .md, think its will be my new note system.
 
 **Quick questions:** are you meant to be able to drag the box? and you say you need to link the folders index.html and main.css how do you do that? :cold_sweat: and another why isnt the emoji working? turns out they just dont work on the VSC preview page
+
+
+# **Week Two**
+
+This week I have realised a silly little mistake I had made, in my quick questions area (which are more for myself to work out it helps me remember better) anyway the mistake was the linking between the between the html and css pages which I have fixed and now the drag options work of course :cold_sweat: 
+
+
+
+
