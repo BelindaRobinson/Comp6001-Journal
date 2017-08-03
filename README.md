@@ -21,6 +21,12 @@ Also I really like what you can do with .md, think its will be my new note syste
 
 This week I have realised a silly little mistake I had made, in my quick questions area (which are more for myself to work out it helps me remember better) anyway the mistake was the linking between the between the html and css pages which I have fixed and now the drag options work of course :cold_sweat: 
 
+I am enjoying the Javascript side and its now well so far anyways making more and more sense as we go along. No more questions as of if, I prefer to work things out the best I can first as thats how I learn the best. No point just telling me as I wonth remember!
+
+
+# **Week Three**
+
+
 
 
 
