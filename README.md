@@ -28,8 +28,12 @@ I am enjoying the Javascript side and its now well so far anyways making more an
 
 This Week was unable to get week 3 work going even though I believe from talking with you the code was completely right gotta love it aye. regaurdless of the code not running I can still see and somewhat understand what is going on and how everything is working with the information from the website. 
 
+**Quick questions:** Warning was $ undefined really not sure why? code is correct
+
 
 # **Week Four**
+
+This weeks code is running without any errors or warnings however nothing is displaying.
 
 
 
